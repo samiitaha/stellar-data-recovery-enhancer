@@ -3,10 +3,13 @@
 > Simple to set up, easy to keep.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Platform-Windows-6f42c1?style=flat-square" alt="Platform" />
-  <img src="https://img.shields.io/badge/License-Free-blue?style=flat-square" alt="License" />
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" alt="Status" />
+  <a href="https://github.com">
+    <img src="https://shields.io" alt="Platform" />
+    <img src="https://shields.io" alt="License" />
+    <img src="https://shields.io" alt="Status" />
+  </a>
 </p>
+
 
 ## 📝 Description
 Full-featured **Stellar Data Recovery Enhancer** productivity platform for team collaboration, project management, and workflow automation.
